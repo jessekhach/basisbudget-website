@@ -6,6 +6,10 @@ import { DarkModeScript } from "@/components/DarkModeScript";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
+  icons: {
+    icon: "/appicon.png",
+    apple: "/appicon.png",
+  },
   title: "Basis Budget — Budgeting that actually makes sense",
   description:
     "An iOS budgeting app with two powerful modes, optional bank sync, and complete privacy. No ads, no data selling.",
