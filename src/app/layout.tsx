@@ -37,10 +37,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full antialiased" suppressHydrationWarning>
-      <head>
-        <DarkModeScript />
-      </head>
       <body className="flex min-h-full flex-col bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100">
+        <DarkModeScript />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
