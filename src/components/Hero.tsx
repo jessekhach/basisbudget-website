@@ -25,7 +25,7 @@ export function Hero() {
             </a>
           </div>
           <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
-            $1.50/mo via SimpleFIN for bank sync
+            $1.50/mo for bank sync via SimpleFIN &mdash; we don&apos;t take a cut
           </p>
         </div>
 
