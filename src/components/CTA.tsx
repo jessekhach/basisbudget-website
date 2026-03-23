@@ -6,7 +6,7 @@ export function CTA() {
           Ready to take control of your money?
         </h2>
         <p className="mt-2 text-gray-600 dark:text-gray-400">
-          Download on iOS. No account needed.
+          Available on iOS.
         </p>
         <div className="mt-5 flex justify-center">
           <a href="https://testflight.apple.com/join/hRKjyZaU" rel="noopener noreferrer">
