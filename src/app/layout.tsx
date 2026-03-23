@@ -9,11 +9,19 @@ export const metadata: Metadata = {
   description:
     "An iOS budgeting app with two powerful modes, optional bank sync, and complete privacy. No ads, no data selling.",
   openGraph: {
-    title: "Basis Budget — Budgeting that actually makes sense",
+    title: "Basis Budget — Your money, two ways to budget",
     description:
       "An iOS budgeting app with two powerful modes, optional bank sync, and complete privacy. No ads, no data selling.",
     type: "website",
     url: "https://basisbudget.com",
+    images: [
+      {
+        url: "https://basisbudget.com/appicon.png",
+        width: 1024,
+        height: 1024,
+        alt: "Basis Budget",
+      },
+    ],
   },
 };
 
