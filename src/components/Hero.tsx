@@ -15,7 +15,7 @@ export function Hero() {
             worth tracking, and complete privacy.
           </p>
           <div className="mt-6 flex flex-wrap items-center gap-3">
-            <a href="#" rel="noopener noreferrer">
+            <a href="https://testflight.apple.com/join/hRKjyZaU" rel="noopener noreferrer">
               <img
                 src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg"
                 alt="Download on the App Store"

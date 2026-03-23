@@ -9,7 +9,7 @@ export function CTA() {
           Download on iOS. No account needed.
         </p>
         <div className="mt-5 flex justify-center">
-          <a href="#" rel="noopener noreferrer">
+          <a href="https://testflight.apple.com/join/hRKjyZaU" rel="noopener noreferrer">
             <img
               src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg"
               alt="Download on the App Store"
